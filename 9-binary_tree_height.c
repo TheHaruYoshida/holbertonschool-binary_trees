@@ -1,10 +1,10 @@
 #include "binary_trees.h"
 
 /**
+  * binary_tree_height - get the height of a binary tree
+  * @tree: the root of a binary tree
   *
-  *
-  *
-  *
+  * Return: the height or 0 if it fails
   */
 
 size_t binary_tree_height(const binary_tree_t *tree)
